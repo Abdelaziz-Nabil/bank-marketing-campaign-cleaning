@@ -1,5 +1,4 @@
 # Bank Marketing Campaign Data Cleaning
-# Bank Marketing Campaign Data Cleaning
 
 This project focuses on cleaning, reformatting, and structuring the data collected by a bank during a marketing campaign. The objective is to ensure the data conforms to specific data types and formats so it can be easily stored in a PostgreSQL database and used for analysis in future campaigns.
 
