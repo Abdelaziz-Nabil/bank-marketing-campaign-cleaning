@@ -4,25 +4,6 @@ This project focuses on cleaning, reformatting, and structuring the data collect
 
 The project includes a Jupyter Notebook and Python scripts for data cleaning and transformation, as well as the cleaned data saved into separate CSV files for different aspects of the marketing campaign.
 
-bank-marketing-campaign-cleaning/
-│
-├── data/
-│   ├── bank_marketing.csv             # Raw input data file
-│   ├── client.csv                    # Cleaned client data
-│   ├── campaign.csv                  # Cleaned campaign data
-│   └── economics.csv                 # Cleaned economics data
-│
-├── notebooks/
-│   └── data_cleaning_notebook.ipynb  # Jupyter Notebook with the data cleaning process
-│
-├── scripts/
-│   └── data_cleaning.py              # Python script for data cleaning (if applicable)
-│
-├── README.md                         # Project documentation and instructions
-├── requirements.txt                  # Python dependencies list
-└── .gitignore                        # Git ignore file (to exclude unnecessary files)
-
-
 
 ## Files and Directories
 
